@@ -38,7 +38,7 @@ paths:
                 collateral: 
                 type: array
                 items:
-                  $ref: '#/definitions/Contributors'
+                  $ref: '#/definitions/yyy'
               
       responses:
         "200":
