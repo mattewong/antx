@@ -14,7 +14,9 @@ Cash flow engine library for structured finance assets and capital structures
 * API for capital structures applied to pool-level cashflows
 
 * High performance
-Streamed output
+Streamed output (bounded memory)
+Lightweight (memory as well as binary size)
+Compatible with distributed lambda architectures
 
 * Distributable / parallelizable across unlimited number of nodes
 
