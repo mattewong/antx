@@ -26,7 +26,7 @@ Compatible with distributed lambda architectures
 The following longer-term objectives are not currently reflected in the library. Suggestions / comments / pull requests that help to make these future changes easier to achieve are much appreciated
 
 * Arbitrary precision
-* OpenCL
+* OpenCL or similar GPU / HPC for higher performance
 
 # What this is not
 
