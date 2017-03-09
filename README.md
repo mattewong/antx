@@ -1,7 +1,7 @@
 # xtna
 Cash flow engine library for structured finance assets and capital structures
 
-# Objectives
+# Objectives (current)
 
 * MIT for this library, MIT or Apache or similarly permissive license for any libraries this relies on
 
@@ -15,12 +15,16 @@ Cash flow engine library for structured finance assets and capital structures
 
 * High performance
 Streamed output
-OpenCL?
 
 * Distributable / parallelizable across unlimited number of nodes
 
 * Cross-platform: Windows, Linux, Mac
 
+# Objectives (future)
+The following longer-term objectives are not currently reflected in the library. Suggestions / comments / pull requests that help to make these future changes easier to achieve are much appreciated
+
+* Arbitrary precision
+* OpenCL
 
 # What this is not
 
