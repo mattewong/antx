@@ -3,7 +3,7 @@ Cash flow engine library for structured finance assets and capital structures
 
 # Objectives
 
-* MIT for this library, MIT or Apache license for any libraries this relies on
+* MIT for this library, MIT or Apache or similarly permissive license for any libraries this relies on
 
 * Calculation of loan-level and pool-level collateral cashflows for common abs asset classes including residential mortgages, auto loans, student loans, credit card loans, etc
 
