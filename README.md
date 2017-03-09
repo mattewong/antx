@@ -15,6 +15,12 @@ Cash flow engine API for structured finance assets and capital structures
 
 * Distributable / parallelizable across unlimited number of nodes
 
+* Cross-platform: Windows, Linux, Mac
+
+* Compilable
+
 # What this is not
 
 Predictive: this API will not predict asset performance. Rather, it will model cashflows based on the provided assumptions of future asset performance
+
+# Usage
