@@ -1,0 +1,18 @@
+/* run this through JSMin to produce the actual json file that is submitted to the API */
+
+{
+  input: {
+    assets: {
+      columns: ["ID", "Original Balance", "Term to Maturity"],
+      data: [
+        [ 1, 100000, 84 ],
+        [ 2, 150000, 72 ]
+      ]
+    },
+    projections: [
+      ids: [ /* list of asset IDs that this projection will apply to. must be unique */ ],
+      
+      
+    }
+  }
+}
